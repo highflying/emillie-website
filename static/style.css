@@ -1,0 +1,9 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: courier;
+    border-bottom: 5px solid green;
+    text-align: center;
+}
